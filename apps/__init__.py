@@ -1,0 +1,1 @@
+# If apps is just a directory and not a Python package, you need to make it a package by creating an empty __init__.py file in the apps/modules directory:
